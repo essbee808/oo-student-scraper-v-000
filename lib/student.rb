@@ -17,7 +17,6 @@ class Student
       new_student = self.new(el)
       return new_student
     end
-  
   end
 
   def add_student_attributes(attributes_hash)
